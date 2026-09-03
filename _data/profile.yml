@@ -1,0 +1,31 @@
+name: "Syed Sadman Shahriar"
+role: "Graduate Assistant"
+affiliation: "Interdisciplinary Schools, Old Dominion University"
+location: "Norfolk, Virginia, USA"
+
+# Replace this with your actual photo, e.g. /assets/images/profile.jpg
+avatar: "/assets/images/profile-placeholder.svg"
+
+tagline: "Data Science • Public Administration • Policy • Analytics"
+
+about: >-
+  I am a graduate student at Old Dominion University with an interdisciplinary
+  background spanning data science, public administration, human resource
+  management, policy analysis, and community-focused projects. My interests
+  include applying data-informed approaches to public and nonprofit challenges,
+  organizational decision-making, equity, and community wellbeing.
+
+# Add only links you want public.
+links:
+  - label: "Old Dominion University"
+    icon: "fa-solid fa-building-columns"
+    url: "https://www.odu.edu/"
+  - label: "LinkedIn"
+    icon: "fa-brands fa-linkedin"
+    url: "https://www.linkedin.com/in/syed-sadman-shahriar-3b522a207"
+  # - label: "Email"
+  #   icon: "fa-solid fa-envelope"
+  #   url: "mailto:YOUR_EMAIL@example.com"
+  # - label: "GitHub"
+  #   icon: "fa-brands fa-github"
+  #   url: "https://github.com/YOUR-USERNAME"
