@@ -1,0 +1,21 @@
+<aside class="profile-card">
+  <img class="profile-photo"
+       src="{{ site.data.profile.avatar | relative_url }}"
+       alt="{{ site.data.profile.name }}">
+  <h2>{{ site.data.profile.name }}</h2>
+  <p class="profile-role">{{ site.data.profile.role }}</p>
+  <p class="profile-affiliation">{{ site.data.profile.affiliation }}</p>
+
+  {% if site.data.profile.tagline %}
+  <p class="profile-tagline">{{ site.data.profile.tagline }}</p>
+  {% endif %}
+
+  <div class="profile-links">
+    {% for link in site.data.profile.links %}
+      <a href="{{ link.url }}" target="_blank" rel="noopener">
+        <i class="{{ link.icon }}"></i>
+        <span>{{ link.label }}</span>
+      </a>
+    {% endfor %}
+  </div>
+</aside>
