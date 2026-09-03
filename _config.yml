@@ -1,0 +1,16 @@
+title: "Syed Sadman Shahriar"
+description: "Academic and professional portfolio of Syed Sadman Shahriar"
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+author:
+  name: "Syed Sadman Shahriar"
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
