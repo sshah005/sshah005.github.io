@@ -44,7 +44,7 @@ students, emphasizing STEM fields.</p>
 
 </div>
 
-## Add More Projects
+<!--## Add More Projects
 
 Duplicate one of the project-card blocks above and add coursework, data-analysis,
-policy, public-administration, or professional projects.
+policy, public-administration, or professional projects.-->
