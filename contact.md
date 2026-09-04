@@ -15,5 +15,5 @@ opportunities.
 - **Institution:** [Old Dominion University](https://www.odu.edu/)
 - **Location:** Norfolk, Virginia, USA
 
-To show an email address or GitHub account in the sidebar, edit
-`_data/profile.yml`.
+<!--To show an email address or GitHub account in the sidebar, edit
+`_data/profile.yml`.-->
