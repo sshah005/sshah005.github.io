@@ -24,4 +24,4 @@ management.
 Completed introductory training in the modern data ecosystem, analytical
 techniques, and data-informed decision-making.
 
-> Add dates, issuing organizations, credential URLs, and additional honors here.
+<!--> Add dates, issuing organizations, credential URLs, and additional honors here.-->
