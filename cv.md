@@ -6,17 +6,17 @@ permalink: /cv/
 
 # CV / Résumé
 
-Place your PDF résumé or CV at:
+<!--Place your PDF résumé or CV at:
 
 `assets/files/Syed_Sadman_Shahriar_CV.pdf`
 
-Then uncomment the button below in this file.
+Then uncomment the button below in this file.-->
 
-<!--
+
 <a class="button" href="{{ '/assets/files/Syed_Sadman_Shahriar_CV.pdf' | relative_url }}" target="_blank">
   <i class="fa-solid fa-file-pdf"></i> View / Download CV
 </a>
--->
+
 
 ## Quick Profile
 
