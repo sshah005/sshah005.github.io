@@ -14,7 +14,7 @@ Then uncomment the button below in this file.-->
 
 
 <a class="button" href="{{ '/assets/files/Syed_Sadman_Shahriar_CV.pdf' | relative_url }}" target="_blank">
-  <i class="fa-solid fa-file-pdf"></i> View / Download CV
+  <i class="fa-solid fa-file-pdf"></i> View / Download Résumé
 </a>
 
 
