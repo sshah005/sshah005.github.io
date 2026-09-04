@@ -26,5 +26,5 @@ Major: Human Resource Management
 Completed undergraduate business education with a specialization in human
 resource management.
 
-> **Edit note:** Add exact degree dates, concentrations, GPA/honors, thesis or
-> capstone titles in this file if you want them displayed.
+<!-- > **Edit note:** Add exact degree dates, concentrations, GPA/honors, thesis or -->
+<!-- > capstone titles in this file if you want them displayed. -->
